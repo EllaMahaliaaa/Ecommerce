@@ -1,5 +1,6 @@
 import { Image } from "sanity"
 
+
 interface InventoryProduct {
   id: string
   name: string
